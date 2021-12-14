@@ -1,0 +1,8 @@
+<resources>
+    <string name = "app_name"> Minesweeper </string>
+
+    <string name = "smiley_face"> ☻ </string>
+    <string name = "flag"> ⚐ </string>
+    <string name = "mine"> 💣 </string>
+    <string name = "default_score"> 000 </string>
+</resources>
